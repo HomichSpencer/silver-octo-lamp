@@ -1,0 +1,10 @@
+.sqr {
+    height: 500px;
+    width: 1000px;
+    border: 1px solid salmon;
+    border-radius: 16px;
+    -webkit-box-shadow: 0px 0px 15px 5px #000000; 
+    box-shadow: 0px 0px 15px 5px #000000;
+    /* background-image: url(https://i.ytimg.com/vi/JtEfHnbMWIg/maxresdefault.jpg); */
+
+}
